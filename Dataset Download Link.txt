@@ -1,0 +1,3 @@
+https://www.eia.gov/electricity/data.php#netmetering
+
+Sales (consumption), revenue, prices & customers section
